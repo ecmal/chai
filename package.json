@@ -1,0 +1,22 @@
+{
+    "name"              : "@ecmal/chai",
+    "version"           : "0.0.1",
+    "description"       : "Chai Testing Framework Wrapper for Ecmal Projects",
+    "license"           : "UNLICENSED",
+    "author"            : "Mamble Inc. <ecmal@mamble.co>",
+    "repository"        : "https://github.com/ecmal/chai.git",
+    "contributors"      : ["Sergey Mamyan <sergey@mamble.co>"],
+    "homepage"          : "https://github.com/ecmal/chai",
+    "bugs"              : "https://github.com/ecmal/chai/issues",
+    "keywords"          : ["typescript","utilities","common"],
+    "main"              : "index.js",
+    "types"             : "index.d.ts",
+    "engines"           : {},
+    "bundle"            : true,
+    "directories"       : {
+        "src"           : "."
+    },
+    "dependencies"      : {
+        "@ecmal/core"   : "latest"
+    }
+}
